@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Juttbrand535/Juttbrand535 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Juttbrand535/Juttbrand535 is a ✨ special ✨ yasirziddi because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
